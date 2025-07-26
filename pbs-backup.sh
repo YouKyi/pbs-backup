@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # =============================================================================
-# Script : vps_pbs_backup.sh
+# Script : pbs-backup.sh
 # But    : Backup Linux Instance complète sur PBS Server avec chiffrement
 # Auteur : Youkyi
 # Date   : 2025-07-25
