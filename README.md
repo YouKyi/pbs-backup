@@ -116,7 +116,7 @@ VPS_NAME="Nom-de-votre-VPS"
 
 ### Ajouter PBS comme storage dans PVE
 
-Pour voir vos sauvegardes dans l'interface PVE :
+Pour voir vos sauvegardes dans l'interface PVE
 
 1. **Datacenter** → **Storage** → **Add** → **Proxmox Backup Server**
 2. **Configuration :**
